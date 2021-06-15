@@ -1,7 +1,9 @@
 ## How to run it
 MiniCrawler is a scalable and open source WeChat mini-app crawler, it contains two parts:
-**Xposed Plugin** Extracting data (cookie) from WeChat to initialize the mini-app metadata crawler, and injecting downloading commands to WeChat.
-**Metadata Crawler** Using keywords and cookie to send mini-app query messages to WeChat server and retrieve mini-app metadata.
+
+**Xposed Plugin:** Extracting data (cookie) from WeChat to initialize the mini-app metadata crawler, and injecting downloading commands to WeChat.
+
+**Metadata Crawler:** Using keywords and cookie to send mini-app query messages to WeChat server and retrieve mini-app metadata.
 
 ## How to run it
 
