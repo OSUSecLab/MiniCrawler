@@ -30,11 +30,14 @@ MiniCrawler is a scalable and open source WeChat mini-app crawler, it contains t
 If you create a research work that uses our work, please cite our paper:
 
 ```
-@inproceedings{zhang2021measurement,
+@article{zhang2021measurement,
   title={A Measurement Study of Wechat Mini-Apps},
   author={Zhang, Yue and Turkistani, Bayan and Yang, Allen Yuqing and Zuo, Chaoshun and Lin, Zhiqiang},
-  booktitle={Abstract Proceedings of the 2021 ACM SIGMETRICS/International Conference on Measurement and Modeling of Computer Systems},
-  pages={19--20},
-  year={2021}
+  journal={Proceedings of the ACM on Measurement and Analysis of Computing Systems},
+  volume={5},
+  number={2},
+  pages={1--25},
+  year={2021},
+  publisher={ACM New York, NY, USA}
 }
 ```
